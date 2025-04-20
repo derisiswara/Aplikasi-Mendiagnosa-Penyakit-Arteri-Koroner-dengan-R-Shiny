@@ -1,7 +1,7 @@
 library(randomForest)
 library(shiny)
 library(tidymodels)
-
+#rsconnect::writeManifest()
 # Define UI ----
 ui <- fluidPage(
   
